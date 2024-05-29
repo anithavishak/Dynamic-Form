@@ -139,6 +139,10 @@ This Laravel project allows admins to create, manage, and display dynamic forms.
     ```bash
     php artisan queue:work
     ```
+    Here I am using the queue named 'emails'.
+    To use that in config\queue.php, under database connections change
+    'queue' => 'emails'
+
 
 ## Usage
 
