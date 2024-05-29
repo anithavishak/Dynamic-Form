@@ -122,7 +122,7 @@ This Laravel project allows admins to create, manage, and display dynamic forms.
     ```bash
     php artisan queue:table
     php artisan migrate
-   ```
+    ```
 
 13. **Serve the application:**
 
